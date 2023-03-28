@@ -87,6 +87,7 @@ img {
 
 .card-title {
     color: var(--very-dark-desaturated-blue);
+    font-size: 1.1rem;
 }
 
 .card-info-age {
@@ -110,7 +111,7 @@ img {
 .card-bottom {
     padding: 20px 0;
     display: flex;
-    gap: 2rem;
+    gap: 3.2rem;
 }
 
 .card-footer {
@@ -128,6 +129,6 @@ img {
 
 .card-detail-type {
     color: var(--dark-grayish-blue);
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     font-weight: 400;
 }
